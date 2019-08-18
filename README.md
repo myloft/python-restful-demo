@@ -4,10 +4,12 @@
 - flask
 - flask-restful
 - flask-sqlalchemy
-### 查询用户
+## 演示
+### 查询全部用户
 ![查询全部](https://raw.githubusercontent.com/myloft/python-restful-demo/master/img/getall.png)
+### 查询单个用户
 ![查询单个](https://raw.githubusercontent.com/myloft/python-restful-demo/master/img/getsingle.png)
-### 增加用户
+### 增加新用户
 ![增加用户](https://raw.githubusercontent.com/myloft/python-restful-demo/master/img/postnew1.png)
 ![增加用户](https://raw.githubusercontent.com/myloft/python-restful-demo/master/img/postnew2.png)
 ### 删除用户
